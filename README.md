@@ -288,7 +288,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-### Mr. Samit Sankhla
+### Samit Sankhla
 
 GitHub: https://github.com/samitsankhla
 
